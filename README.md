@@ -1,16 +1,36 @@
-## Hi there 👋
-
-<!--
-**SergioEnriquezMartinez/SergioEnriquezMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+	"name": "Sergio",
+	"description": "Backend developer commited to continuous learning and eager to embrace the challenges of full-stack development and expand my expertise in Cloud technologies",
+	"current_role": {
+		"company": "Fundeen Platform",
+		"position": "Software Engineer Trainee",
+		"description": "Currently working as a Backend Developer on [Fundeen](https://www.fundeen.com/)"
+	}
+	"technologies": [
+		"Java",
+		"Spring",
+		"Vaadin",
+		"Postgres",
+		"MySQL",
+		"MariaDB",
+		"Oracle",
+		"EC2".
+		"S3",
+		"ECS",
+		"RDS",
+		"Nginx",
+		"Strapi",
+		"PHP",
+		"HTML",
+		"CSS",
+		"JavaScript",
+		"Metabase",
+		"N8N"
+	],
+	"contact": {
+		"email": "sergioenmar@gmail.com",
+		"linkedin": "[LinkedIn](https://www.linkedin.com/in/sergio-enr%C3%ADquez-mart%C3%ADnez-801339117/)"
+	}
+}
+```
