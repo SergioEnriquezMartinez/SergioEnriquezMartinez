@@ -15,7 +15,7 @@
 		"MySQL",
 		"MariaDB",
 		"Oracle",
-		"EC2".
+		"EC2",
 		"S3",
 		"ECS",
 		"RDS",
