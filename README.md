@@ -1,8 +1,8 @@
 ```json
 {
     "name": "Sergio",
-    "description": "Backend developer committed to continuous learning and eager to embrace the challenges 
-		of full-stack development and expand my expertise in Cloud technologies",
+    "description": "Backend developer committed to continuous learning and eager to embrace the challenges " +
+		"of full-stack development and expand my expertise in Cloud technologies",
     "current_role": {
         "company": "Fundeen Platform",
         "position": "Software Engineer Trainee",
