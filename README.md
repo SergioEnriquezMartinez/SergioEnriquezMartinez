@@ -2,7 +2,7 @@
 {
     "name": "Sergio",
     "description": "Backend developer committed to continuous learning and eager to embrace new challenges",
-    "objectives": "Expand my skills towards Full-Stack Development and Cloud Computing, focusing on building scalable and efficient applications.",
+    "objectives": "Expand my skills towards Full-Stack Development and Cloud Computing",
     "current_role": {
         "company": "Fundeen Platform",
         "position": "Software Engineer Trainee"
