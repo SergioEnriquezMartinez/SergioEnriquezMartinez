@@ -25,6 +25,7 @@
         "HTML",
         "CSS",
         "JavaScript",
+	"Git",
         "Metabase",
         "N8N"
     ]
